@@ -190,7 +190,8 @@ div.credits {
 .contentbody {
 	margin-left:		190px;
 	color: 				#636363;
-	font-size: 			12px;
+	/*main font*/
+	font-size: 			14px;
 	padding-right: 		20px;
 	padding-left: 		21px;
 }
